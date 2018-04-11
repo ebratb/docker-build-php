@@ -1,0 +1,5 @@
+pipeline:
+  docker:
+    image: plugins/docker
+    repo: docker.schoolcontrol.com/builders/php-builder
+    tags: latest
